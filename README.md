@@ -20,6 +20,9 @@ Visit the live version of the project here:
 - Click on the "⭐ Star on GitHub" button in the top right corner to give the project a star on GitHub.
 - Toggle fullscreen mode by clicking the "🖥️" icon.
 
+## Star History
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=#mdenizg/bouncingclock&Date" frameBorder="0"></iframe>
+
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
