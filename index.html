@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flip Clock</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="clock-container">
+    <div class="clock">
+      <div class="hour">
+        <div class="digit">0</div>
+        <div class="digit">0</div>
+      </div>
+      <div class="colon">:</div>
+      <div class="minute">
+        <div class="digit">0</div>
+        <div class="digit">0</div>
+      </div>
+      <div class="colon">:</div>
+      <div class="second">
+        <div class="digit">0</div>
+        <div class="digit">0</div>
+      </div>
+    </div>
+
+    <!-- Gece/Gündüz Butonu ve Tam Ekran Butonu -->
+    <div class="controls">
+      <button id="toggle-theme" onclick="toggleTheme()">🌙</button>
+      <button id="fullscreen" onclick="toggleFullScreen()">🖥️<span class="tooltip">Toggle Fullscreen</span></button>
+    </div>
+
+    <div class="title">Bouncing Clock</div>
+  </div>
+
+  <!-- GitHub Star Button -->
+  <a href="https://github.com/mdenizg/bouncingclock" id="github-star" target="_blank">⭐ Star on GitHub</a>
+
+  <script src="script.js"></script>
+</body>
+</html>
