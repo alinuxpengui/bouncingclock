@@ -4,7 +4,7 @@ Bouncing Clock is a real-time clock application with a unique bounce animation e
 
 ## Features
 
-- Real-time clock display with flip animation for digits.
+- Real-time clock display with bounce animation for digits.
 - Dark and light theme toggle.
 - Fullscreen mode option.
 - Responsive design, mobile-friendly.
