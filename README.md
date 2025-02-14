@@ -22,11 +22,11 @@ Visit the live version of the project here:
 
 ## Star History
 
-<a href="https://star-history.com/#mdenizg/bouncingclock&Date">
+<a href="https://star-history.com/#alinuxpengui/bouncingclock&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=mdenizg/bouncingclock&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=mdenizg/bouncingclock&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=mdenizg/bouncingclock&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=alinuxpengui/bouncingclock&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=alinuxpengui/bouncingclock&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=alinuxpengui/bouncingclock&type=Date" />
  </picture>
 </a>
 
