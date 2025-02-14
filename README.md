@@ -12,7 +12,7 @@ Bouncing Clock is a real-time clock application with a unique bounce animation e
 ## Website
 
 Visit the live version of the project here:  
-[https://mdenizg.github.io/bouncingclock/](https://mdenizg.github.io/bouncingclock/)
+[https://alinuxpengui.github.io/bouncingclock/](https://alinuxpengui.github.io/bouncingclock/)
 
 ## How to Use
 
